@@ -16,7 +16,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set softtabstop=4
-set foldenable
+"set foldenable
 set foldmethod=indent
 set foldcolumn=1
 set hls
