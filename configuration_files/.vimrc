@@ -59,9 +59,5 @@ noremap x "_x
 call plug#begin('~/.vim/plugged')
 Plug 'Valloric/YouCompleteMe'
 Plug 'ternjs/tern_for_vim'
-Plug 'Raimondi/delimitMate'
-Plug 'vim-airline/vim-airline'
-Plug 'xml.vim'
-Plug 'json.vim'
 call plug#end()
 " }}}
